@@ -1,3 +1,6 @@
+# NOTE!
+I need to redo all these archives as .zip since PSP Filer can extract .zip files nativley and not .7z files. Have to do this before adding any new homebrew.
+
 # PSP Homewbrew
 This is a bunch of homebrew that I find and have packaged ready for your PSP!
 
